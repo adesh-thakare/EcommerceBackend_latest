@@ -4,9 +4,6 @@
     {
       "src": "*.js",
       "use": "@vercel/node",
-      "config": {
-        "includeFiles": ["db.json"]
-      }
     }
   ],
   "routes": [
